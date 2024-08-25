@@ -1,5 +1,20 @@
 public class JavaGitDemo {
 	public static void main(String[] args) {
-       // TODO
+
+                doFirst();
+		doSecond();
+		doThird();
+	}
+	// placeholders
+	private void doFirst() {
+
+	}
+
+	private void doSecond() {
+
+	}
+
+	private void doThird() {
+		
 	}
 }
