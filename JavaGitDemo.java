@@ -7,7 +7,7 @@ public class JavaGitDemo {
 	}
 	// placeholders
 	private void doFirst() {
-
+           System.out.println("Doing first thing!");
 	}
 
 	private void doSecond() {
